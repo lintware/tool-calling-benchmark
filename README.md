@@ -1,6 +1,11 @@
-# Local Agent Bench
+# 🧪 Local Agent Bench
 
-**Can a $1,000 laptop run an AI agent that knows when to use tools -- and when not to?**
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Models](https://img.shields.io/badge/models-21%20tested-orange)
+![Runs](https://img.shields.io/badge/total%20runs-4%2C836-green)
+![Hardware](https://img.shields.io/badge/hardware-CPU%20only-lightgrey)
+
+**Can a $1,000 laptop run an AI agent that knows when to use tools — and when not to?**
 
 I tested 21 small open-weight models locally on CPU to see which ones can act -- and which ones know when not to. No cloud API. No GPU. Just Ollama, a handful of 1-bit and 4-bit quantised models, and a Framework 13 running Arch Linux.
 
